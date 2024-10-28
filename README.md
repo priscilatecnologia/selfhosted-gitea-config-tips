@@ -1,8 +1,8 @@
-# Gitea Config Tips
+# Gitea v1.22.1 Config Tips
 
 Este repositório contém algumas dicas de configuração do Gitea que me tomaram muito tempo para resolver. As combinações das propriedades disponíveis podem, por vezes, causar comportamentos inesperados e dificultar o progresso. Meu objetivo aqui é compartilhar essas lições para ajudar outras pessoas que possam enfrentar desafios semelhantes ao configurar o Gitea em um ambiente self-hosted.
 
-## Sobre
+## Sobre 
 
 Ao trabalhar com o Gitea, percebi que certas configurações, especialmente quando combinadas, podem trazer complicações que não são imediatamente aparentes. As dicas e ajustes compartilhados aqui cobrem essas armadilhas e os caminhos que encontrei para superá-las.
 
